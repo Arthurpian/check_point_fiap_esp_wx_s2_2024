@@ -1,9 +1,10 @@
-# Relatório de Desenvolvimento da API de Similaridade Gênica
-**Grupo**: Grupo Batata-Doce  
+# Relatório de Desenvolvimento da API de Similaridade Gênica 
 **Integrantes**: Nome dos membros do grupo  
-**Data de Entrega**: 11/11/2024  
+Márcio Gastaldi - RM98811
+Arthur Bessa Pian - RM99215
+Davi Desenzi - RM550849
 **Professor**: Fellipe Souto  
-**Disciplina**: Engenharia de Software / Bioinformática
+**Disciplina**: Engenharia de Software 
 
 ## Sumário
 - [Introdução](#introducao)
