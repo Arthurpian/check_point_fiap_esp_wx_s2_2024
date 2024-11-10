@@ -1,9 +1,8 @@
 # Relatório de Desenvolvimento da API de Similaridade Gênica 
-**Integrantes**: Nome dos membros do grupo  
+**Integrantes**:
 Márcio Gastaldi - RM98811
 Arthur Bessa Pian - RM99215
 Davi Desenzi - RM550849
-**Professor**: Fellipe Souto  
 **Disciplina**: Engenharia de Software 
 
 ## Sumário
