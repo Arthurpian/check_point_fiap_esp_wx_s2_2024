@@ -5,9 +5,10 @@
  *
  * Grupo: Batata Doce
  * Autores: 
-        Márcio Gastaldi - RM98811
-        Arthur Bessa Pian - RM99215
-        Davi Desenzi - RM550849
+ *      - João da Silva     -   jaodasilva@example.com
+ *      - Jose da Silva     -   zedasilva@example.com
+ *      - Maria da Silva    -   marydasilva@example.com
+ *      - Monica da Silva   -   nicadasilva@example.com
  */
 
 package br.com.fiap.twoespwx.libunclepresser;
